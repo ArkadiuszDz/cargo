@@ -6,6 +6,11 @@ It requires Node.js version 18.0.0 or higher.
 
 First rename the `.env.sample` file to `.env`.
 
+Next run
+```bash
+npm install
+```
+
 Run the app by running the following command
 ```bash
 npm run start:all

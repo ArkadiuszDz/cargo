@@ -1,5 +1,4 @@
 import React from 'react';
-import classes from './list.module.scss';
 
 interface Props {
   children: React.ReactNode;
